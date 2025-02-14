@@ -1,3 +1,6 @@
+**This is a fork from original repo**
+
+
 # ppscore - a Python implementation of the Predictive Power Score (PPS)
 
 ### From the makers of [bamboolib - a GUI for pandas DataFrames](https://bamboolib.com)
