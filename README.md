@@ -1,4 +1,4 @@
-**This is a fork from original repo**
+**This is a fork from original repo at [https://github.com/8080labs/ppscore](https://github.com/8080labs/ppscore)**
 
 
 # ppscore - a Python implementation of the Predictive Power Score (PPS)
